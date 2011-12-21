@@ -32,9 +32,11 @@
             // 
             // MainForm
             // 
+            this.AccessibleDescription = "Photo Album Management Software";
+            this.AccessibleName = "Photo Album Manager";
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(954, 562);
             this.Name = "MainForm";
             this.Text = "Photo Album Manager";
             this.ResumeLayout(false);
